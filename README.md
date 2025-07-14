@@ -1,65 +1,50 @@
-☕ Dutch Bros Coffee – Product & Sales Performance Analysis
-This project presents a detailed analysis of Dutch Bros Coffee's product-level sales using Excel, Canva, and PowerPoint, aimed at uncovering customer preferences, seasonal patterns, and profitability drivers through effective data visualization and executive-ready insights.
+ Dutch Bros Coffee – Product & Sales Performance Analysis
+A data visualization and presentation project focused on analyzing the product-level sales performance of Dutch Bros Coffee using Excel, Canva, and PowerPoint. The goal was to uncover customer preferences, seasonal patterns, and high-performing products to support data-driven business decisions.
 
-📌 Project Overview
-Objective:
-To understand sales trends, product performance, and customer behavior in order to support data-driven decisions in inventory planning, marketing, and product development.
+📌 Problem Statement
+Dutch Bros Coffee, a leading U.S.-based specialty coffee company, sought to improve its understanding of product-level performance across roast types, pack sizes, and sales channels. With a wide product range and fluctuating sales trends, the company needed actionable insights to enhance inventory planning, product development, and promotional strategies.
 
-Tools Used:
+🛠️ Tools & Workflow
+🔧 Excel
+Cleaned and structured raw sales data
 
-Excel – for data cleaning, aggregation, and analysis
+Built pivot tables and charts
 
-Canva – for designing visual assets
+Conducted analysis on quantity, revenue, profitability, and trends
 
-PowerPoint – for executive presentation delivery
+Created a mini-dashboard to visualize monthly and product-level performance
 
-❓ Key Business Questions & Insights
-1️⃣ Which coffee types (Arabica, Robusta, Excelsa, Liberica) generate the most revenue and profit?
-Arabica is the highest revenue-generating coffee type and leads in overall sales performance.
+🎨 Canva
+Designed compelling, clean visual assets and infographics
 
-Excelsa and Liberica follow as secondary contributors.
+Created charts and presentation visuals to explain findings clearly
 
-Robusta trails in both revenue and volume, indicating lower consumer preference.
+📽️ PowerPoint
+Developed an executive-style presentation
 
-📈 Recommendation: Prioritize Arabica in product placement, promotions, and bulk packaging.
+Summarized insights into key business recommendations
 
-2️⃣ What are the sales trends over time — monthly and yearly? Are there seasonal patterns?
-Sales spike in March, June, and December, showing seasonal buying behavior, likely influenced by promotions and holidays.
+❓ Key Business Questions Explored
+Which coffee types (Arabica, Robusta, Excelsa, Liberica) generate the most revenue and profit?
 
-Year-over-year data suggests a consistent upward trend, indicating positive business growth.
+What are the sales trends over time — monthly and yearly? Are there seasonal patterns?
 
-📈 Recommendation: Align marketing campaigns and product launches with peak months to maximize ROI.
+Which roast types (Light, Medium, Dark) are most popular among customers?
 
-3️⃣ Which roast types (Light, Medium, Dark) are most popular among customers?
-Light and Medium roasts are the most popular, dominating sales volume across all coffee types.
+What is the performance of different product sizes in terms of quantity sold and profitability?
 
-Dark roast has a smaller but stable segment of loyal buyers.
+Which individual products are top sellers by both quantity and revenue?
 
-📈 Recommendation: Focus inventory and ad spend on Light and Medium roasts. Position Dark roast as a specialty offering.
+💼 Outcome & Analyst Experience
+This project helped me apply core data analytics skills in a real-world business scenario, including:
 
-4️⃣ What is the performance of different product sizes in terms of quantity sold and profitability?
-2.5 kg pack is the best-performing size, leading in both quantity sold and revenue contribution.
+Data cleaning and structuring in Excel
 
-0.5 kg and 1.0 kg sizes follow in volume, but with less revenue impact.
+Sales trend and product performance analysis
 
-0.2 kg packs are lowest in both sales and profit.
+Visual storytelling using Canva and PowerPoint
 
-📈 Recommendation: Prioritize 2.5 kg and optimize smaller sizes through bundling or repositioning.
+Drawing insights to inform business strategy
 
-5️⃣ Which individual products are top sellers by both quantity and revenue?
-Arabica 2.5 kg stands out as the top-selling individual product, dominating both in units sold and total revenue.
-
-Other consistent performers include Excelsa 1.0 kg and Liberica 0.5 kg, though with lower profit margins.
-
-📈 Recommendation: Expand availability and promotions for top SKUs, especially Arabica 2.5 kg.
-
-📊 Deliverables
-Excel Workbook: Raw data, pivot tables, and summarized metrics
-
-Canva Visuals: Designed infographics and roast/type charts
-
-PowerPoint Presentation: Executive summary slides for business decision-makers
-
-📈 Key Takeaway
-“By leveraging product-level insights, Dutch Bros Coffee can drive smarter product strategy, seasonal marketing, and high-margin growth through focused inventory and promotional optimization.”
+It enhanced my ability to communicate complex findings visually and gave me practical experience for future roles in data analysis, business intelligence, and retail analytics.
 
